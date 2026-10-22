@@ -1,0 +1,10 @@
+{
+  "name": "PistonVision QC",
+  "description": "AI-Assisted Piston Reuse Inspection System for shop-floor dimensional, visual, and penetrant reuse quality control.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
